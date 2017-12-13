@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "projects", "projects", "{068D7DC3-8E6E-4951-B9E3-272C641BF0DE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TcpClientAdapter", "TcpClientAdapter", "{068D7DC3-8E6E-4951-B9E3-272C641BF0DE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client", "client", "{ECCBAEE2-24C9-4C95-A88C-03B68E866F0F}"
 EndProject
@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Client.WinRT", "pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Client.Unit.WinRT", "projects\client\Unit.WinRT\RabbitMQ.Client.Unit.WinRT.csproj", "{897505A9-8373-4F41-8DE8-221BF06D877D}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RabbitMQ.Client", "projects\client\RabbitMQ.Client\RabbitMQ.Client.xproj", "{8C554257-5ECC-45DB-873D-560BFBB74EC8}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RabbitMQ.Client.MK", "projects\client\RabbitMQ.Client.MK\RabbitMQ.Client.MK.xproj", "{8C554257-5ECC-45DB-873D-560BFBB74EC8}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Unit", "projects\client\Unit\Unit.xproj", "{B8FAC024-CC03-4067-9FFC-02846FB8AE48}"
 EndProject
